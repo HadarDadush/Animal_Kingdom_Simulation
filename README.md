@@ -15,4 +15,4 @@ This project simulates an animal kingdom in Java, implementing a simple animal h
 - Inheritance & Polymorphism
 
 ## Requirements
-- Java 11 or higher
+- Java 8 or higher
